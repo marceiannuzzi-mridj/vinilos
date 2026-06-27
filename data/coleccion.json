@@ -8,6 +8,7 @@
     "sello": "CBS",
     "bpm": 120,
     "tono": "Am",
+    "foto": null,
     "estado": "Bueno"
   },
   {
@@ -19,6 +20,7 @@
     "sello": "CBS",
     "bpm": 108,
     "tono": "Dm",
+    "foto": null,
     "estado": "Nuevo"
   },
   {
@@ -30,6 +32,7 @@
     "sello": "BMG",
     "bpm": 95,
     "tono": "G",
+    "foto": null,
     "estado": "Bueno"
   }
 ]

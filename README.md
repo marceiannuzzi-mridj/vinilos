@@ -12,6 +12,8 @@ Una app sencilla para registrar y explorar tu colección de vinilos: artista, á
 - Ver el catálogo completo
 - Filtrar por artista o género
 - Buscar por BPM (rango) o tono musical
+- Guardar el link de foto desde Google Drive
+- Ver qué discos todavía no tienen foto
 - Marcar el estado del disco (Nuevo, Bueno, Regular)
 
 ## Estructura del proyecto
@@ -44,6 +46,7 @@ node src/catalogo.js
   "sello": "CBS",
   "bpm": 120,
   "tono": "Am",
+  "foto": "https://drive.google.com/file/d/...",
   "estado": "Bueno"
 }
 ```
