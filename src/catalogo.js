@@ -26,6 +26,16 @@ function buscarPorGenero(genero) {
   return coleccion.filter(d => d.genero.toLowerCase() === genero.toLowerCase());
 }
 
-module.exports = { listarDiscos, buscarPorArtista, buscarPorGenero };
+function buscarPorBpm(bpmMin, bpmMax) {
+  const coleccion = cargarColeccion();
+  return coleccion.filter(d => d.bpm >= bpmMin && d.bpm <= bpmMax);
+}
+
+function buscarPorTono(tono) {
+  const coleccion = cargarColeccion();
+  return coleccion.filter(d => d.tono.toLowerCase() === tono.toLowerCase());
+}
+
+module.exports = { listarDiscos, buscarPorArtista, buscarPorGenero, buscarPorBpm, buscarPorTono };
 
 listarDiscos();
