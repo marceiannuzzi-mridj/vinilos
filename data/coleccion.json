@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "artista": "Soda Stereo",
+    "album": "Signos",
+    "año": 1986,
+    "genero": "Rock",
+    "estado": "Bueno"
+  },
+  {
+    "id": 2,
+    "artista": "Charly García",
+    "album": "Clics Modernos",
+    "año": 1983,
+    "genero": "Rock",
+    "estado": "Nuevo"
+  },
+  {
+    "id": 3,
+    "artista": "Fito Páez",
+    "album": "El amor después del amor",
+    "año": 1992,
+    "genero": "Pop Rock",
+    "estado": "Bueno"
+  }
+]
