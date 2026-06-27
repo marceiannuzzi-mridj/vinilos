@@ -11,6 +11,7 @@ Una app sencilla para registrar y explorar tu colección de vinilos: artista, á
 - Agregar discos a tu colección
 - Ver el catálogo completo
 - Filtrar por artista o género
+- Buscar por BPM (rango) o tono musical
 - Marcar el estado del disco (Nuevo, Bueno, Regular)
 
 ## Estructura del proyecto
@@ -41,6 +42,8 @@ node src/catalogo.js
   "año": 1986,
   "genero": "Rock",
   "sello": "CBS",
+  "bpm": 120,
+  "tono": "Am",
   "estado": "Bueno"
 }
 ```

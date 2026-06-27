@@ -6,6 +6,8 @@
     "año": 1986,
     "genero": "Rock",
     "sello": "CBS",
+    "bpm": 120,
+    "tono": "Am",
     "estado": "Bueno"
   },
   {
@@ -15,6 +17,8 @@
     "año": 1983,
     "genero": "Rock",
     "sello": "CBS",
+    "bpm": 108,
+    "tono": "Dm",
     "estado": "Nuevo"
   },
   {
@@ -24,6 +28,8 @@
     "año": 1992,
     "genero": "Pop Rock",
     "sello": "BMG",
+    "bpm": 95,
+    "tono": "G",
     "estado": "Bueno"
   }
 ]
