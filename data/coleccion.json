@@ -5,6 +5,7 @@
     "album": "Signos",
     "año": 1986,
     "genero": "Rock",
+    "sello": "CBS",
     "estado": "Bueno"
   },
   {
@@ -13,6 +14,7 @@
     "album": "Clics Modernos",
     "año": 1983,
     "genero": "Rock",
+    "sello": "CBS",
     "estado": "Nuevo"
   },
   {
@@ -21,6 +23,7 @@
     "album": "El amor después del amor",
     "año": 1992,
     "genero": "Pop Rock",
+    "sello": "BMG",
     "estado": "Bueno"
   }
 ]

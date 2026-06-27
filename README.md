@@ -40,6 +40,7 @@ node src/catalogo.js
   "album": "Signos",
   "año": 1986,
   "genero": "Rock",
+  "sello": "CBS",
   "estado": "Bueno"
 }
 ```
